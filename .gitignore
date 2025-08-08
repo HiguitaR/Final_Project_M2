@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+target/
+build/
+*.class
+*.tmp
+*.iws
+*.ipr
+lib/
+
+
+### Mac OS ###
+.DS_Store
+Thumbs.db
+
+### Logs Archives ###
+*.log
+
